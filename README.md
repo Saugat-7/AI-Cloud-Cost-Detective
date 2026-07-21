@@ -284,16 +284,4 @@ npm run dev
 - SQL injection protection via ORM
 - HTTPS-ready deployment
 
----
-
-# License
-
-This project is licensed under the MIT License.
-
----
-
-## Author
-
-**Saugat Kunwar**
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
+----
