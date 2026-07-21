@@ -107,4 +107,4 @@ Python backend fetches all resources using Azure CLI
 Live progress is streamed to the UI via FastAPI WebSocket
 Resource data is sent to OpenAI API for cost analysis
 Analysis results are stored in Azure PostgreSQL
-Final report with cost breakdown, suggestions, and fix commands is displayed
+Final report with cost breakdown, suggestions, and fix commands is display
